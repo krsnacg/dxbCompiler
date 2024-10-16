@@ -1,0 +1,13 @@
+cadena constante pen <= "@sdsds@";
+entero constante cum <= 21;
+
+principal{}
+
+clase auto{
+    entero x <= 221,e <= 3;
+    
+    flotante num <= 12.1321651123;
+
+    auto(){}
+}
+
